@@ -1,45 +1,62 @@
 Sections of the Coupons.com Email (HTML):
 
 [Body bg-color: #f2f2f2]
+[font-family: Poppins, Helvetica, Arial, sans-serif;]
 
 1. Header [bg: #fff]
    a. logo, Links: 'View in Browser | Unsubscribe'
       [txt-color: #7c7c7c]
       [txt-size: 11px]
+      [font-weight: 400]
+
+
    b. Navigation: 'Printable Coupons, Digital Coupons, Coupon Codes'
       [bg: #f6f6f6]
       [txt-color: #5c5c5c]
       [txt-size: 13px]
+      [font-weight: 400]
+
 
 2. Banner Image: 'Cash Back Offers'
 
+
 3. Food Items List (8 [2 columns/4 rows]) [bg: #f3f3f3]
+
    - Each Item List includes [each item bg: #fff]:
       a. Image: Food thumbnail
       b. Text: Food brand name
          [txt-color: #000]
          [txt-size: 17px]
+         [font-weight: 400]
       c. Text: Price Back
          [txt-color: #000]
          [txt-size: 20px]
+         [font-weight: 700]
       d. Image: Link Icon
 
-4. Button: 'View Cash Back Offers'
+4. BUTTON: 'View Cash Back Offers'
    [bg: #f3f3f3]
    [txt-size: 12px]
    [btn-bg: #209DFF]
 
-5. Footer [bg: #fff]
+
+5. FOOTER [bg: #fff]
    a. Links: 'Help | Unsubscribe'
       [txt-color: #7c7c7c]
       [txt-size: 11px]
+      [font-weight: 700]
+
    b. Paragraph Text
       [txt-color: #666666]
       [txt-size: 10px]
+
    c. Links: 'Privacy Policy | CA Privacy Notice'
       [txt-color: #7c7c7c]
       [txt-size: 11px]
+      [font-weight: 700]
+
    d. Image: Coupons.com
+
    e. Address
          [txt-color: #7c7c7c]
          [txt-size: 10px]

@@ -54,8 +54,12 @@ $block-grid-gutter: $global-gutter;
 // 4. Typography
 // -------------
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+$google-font-poppins: Poppins, Helvetica, Arial, sans-serif;
+
 $global-font-color: $black;
-$body-font-family: Helvetica, Arial, sans-serif;
+$body-font-family: $google-font-poppins;
+// $body-font-family: Helvetica, Arial, sans-serif;
 $global-font-weight: normal;
 $header-color: inherit;
 $global-line-height: 1.3;
