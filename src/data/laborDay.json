@@ -1,0 +1,23 @@
+{
+   "title": "40% off on labor day",
+   "products": [
+      {
+         "title": "Lincoln Clay",
+         "age": 23,
+         "product_url": "https://i.pinimg.com/originals/bd/3d/0d/bd3d0d5df70b29cc4e6300386f17cab6.png",
+         "image_url": "https://moviefashion.b-cdn.net/wp-content/uploads/2018/09/Lincoln-Clay-Mafia-lll-Military-Jacket.jpg"
+      },
+      {
+         "title": "Guts",
+         "age": 24,
+         "product_url": "https://i.pinimg.com/originals/bd/3d/0d/bd3d0d5df70b29cc4e6300386f17cab6.png",
+         "image_url": "https://i.pinimg.com/originals/bd/3d/0d/bd3d0d5df70b29cc4e6300386f17cab6.png"
+      },
+      {
+         "title": "Kiryu Kazuma",
+         "age": 49,
+         "product_url": "https://i.pinimg.com/originals/bd/3d/0d/bd3d0d5df70b29cc4e6300386f17cab6.png",
+         "image_url": "https://64.media.tumblr.com/08b6ad688b1fb0c8cdebf3fda0a1c793/e407c8263392322a-69/s1280x1920/bf87cba6923e18ac962024554b2319f96cf6af90.png"
+      }
+   ]
+}
