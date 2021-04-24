@@ -3,24 +3,33 @@ html, body, .body {
    background: #f2f2f2;
    background-color: #f2f2f2;
 }
+
+.row {
+   .header {
+      padding: 50px;
+   }
+}
+
 .header {
    background: #fff;
    background-color: #fff;
+   vertical-align: center;
 
    .columns {
-      padding-bottom: 20px;
-      padding-right: 20px !important;
-      padding-left: 20px !important;
-      padding-top: 20px;
+      padding-bottom: 35px;
+      padding-right: 35x !important;
+      padding-left: 35px !important;
+      padding-top: 35px;
 
       .coupons-logo {
          width: 75px;
       }
       p {
          color: #7c7c7c;
+         font-size: 10px;
 
          a {
-            font-size: 11px;
+            font-size: 10px;
             color: #7c7c7c;
          }
       }
