@@ -1,6 +1,10 @@
+html, body, .body {
+   background: #f2f2f2;
+   background-color: #f2f2f2;
+}
 .header {
-   background: red;
-   background-color: red;
+   background: #fff;
+   background-color: #fff;
 
    .columns {
       padding-bottom: 20px;
@@ -13,6 +17,23 @@
       }
    }
 }
+
+.sub-header {
+   background: #f6f6f6;
+   background-color: #f6f6f6;
+
+   .columns {
+      padding-bottom: 20px;
+      padding-right: 20px !important;
+      padding-left: 20px !important;
+      padding-top: 20px;
+
+      h1 {
+         color: white;
+      }
+   }
+}
+
 .row {
    .valign-middle {
       vertical-align: middle;
