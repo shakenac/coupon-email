@@ -17,7 +17,7 @@ html, body, .body {
 
    .columns {
       padding-bottom: 35px;
-      padding-right: 35x !important;
+      padding-right: 35px !important;
       padding-left: 35px !important;
       padding-top: 35px;
 
@@ -45,6 +45,11 @@ html, body, .body {
       padding-right: 20px !important;
       padding-left: 20px !important;
       padding-top: 20px;
+
+      a {
+         color: #5c5c5c;
+         font-size: 13px;
+      }
    }
 }
 
@@ -63,7 +68,5 @@ html, body, .body {
       background-color: black;
    }
 
-   a {
-      color: red;
-   }
+
 }
