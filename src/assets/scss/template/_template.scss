@@ -83,3 +83,38 @@ html, body, .body {
 }
 
 // COUPONS SECTION
+
+.coupons {
+   background: #f3f3f3;
+   background-color: #f3f3f3;
+   margin-left: 35px !important;
+   margin-right: 35px !important;
+
+   .columns {
+      background: #fff;
+      background-color: #fff;
+   }
+
+   .item-image {
+      img {
+         width: 76px;
+      }
+   }
+
+   .link-icon {
+      img {
+         width: 36px;
+      }
+   }
+
+   h3 {
+      color: #000;
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 5px;
+   }
+
+   p {
+      margin-bottom: 0;
+   }
+}
