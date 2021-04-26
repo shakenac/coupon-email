@@ -70,10 +70,18 @@ html, body, .body {
    }
 }
 
-.row {
-   .valign-middle {
-      vertical-align: middle;
-   }
+// .row {
+//    .valign-middle {
+//       vertical-align: middle;
+//    }
+// }
+
+
+// BANNER IMAGE
+.banner-image {
+
+      width: 100%;
+
 }
 
 // SPACER
@@ -87,6 +95,13 @@ html, body, .body {
 .coupons-row {
    background: #f3f3f3;
    background-color: #f3f3f3;
+
+   .columns {
+      @media only screen and (max-width: 500px) {
+         display: inline-block !important;
+         width: 100% !important;
+      }
+   }
 
    .coupons {
       background: #fff;
