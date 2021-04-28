@@ -1,0 +1,53 @@
+{
+   "title": "Coupons.com Cash Back Offers You'll Love",
+   "coupons": [
+      {
+         "item-image": "/assets/img/images/1-thumb.jpg",
+         "brand-name": "Chobani",
+         "price-saved": "$0.25 Back",
+         "link-icon": "/assets/img/images/link-icon.png"
+      },
+      {
+         "item-image": "/assets/img/images/2-thumb.jpg",
+         "brand-name": "Laird Superfood",
+         "price-saved": "$1.50 Back",
+         "link-icon": "/assets/img/images/link-icon.png"
+      },
+      {
+         "item-image": "/assets/img/images/3-thumb.jpg",
+         "brand-name": "Varies",
+         "price-saved": "$1.50 Back",
+         "link-icon": "/assets/img/images/link-icon.png"
+      },
+      {
+         "item-image": "/assets/img/images/4-thumb.jpg",
+         "brand-name": "Emergen-C",
+         "price-saved": "$1.00 Back",
+         "link-icon": "/assets/img/images/link-icon.png"
+      },
+      {
+         "item-image": "/assets/img/images/5-thumb.jpg",
+         "brand-name": "Renuzit®",
+         "price-saved": "$1.00 Back",
+         "link-icon": "/assets/img/images/link-icon.png"
+      },
+      {
+         "item-image": "/assets/img/images/6-thumb.jpg",
+         "brand-name": "Yardley London",
+         "price-saved": "$1.00 Back",
+         "link-icon": "/assets/img/images/link-icon.png"
+      },
+      {
+         "item-image": "/assets/img/images/7-thumb.jpg",
+         "brand-name": "SILKA",
+         "price-saved": "$3.00 Back",
+         "link-icon": "/assets/img/images/link-icon.png"
+      },
+      {
+         "item-image": "/assets/img/images/8-thumb.jpg",
+         "brand-name": "SlimFast",
+         "price-saved": "$1.00 Back",
+         "link-icon": "/assets/img/images/link-icon.png"
+      }
+   ]
+}
