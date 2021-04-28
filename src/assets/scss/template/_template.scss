@@ -1,8 +1,13 @@
+// @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
 
 html, body, .body {
    background: #f2f2f2;
    background-color: #f2f2f2;
 }
+
+// p, h1, h2, h3, h4, ol, li, ul {
+//    font-family: 'Poppins', 'Helvetica', sans-serif;
+// }
 
 // Header
 .header {
@@ -11,15 +16,15 @@ html, body, .body {
    vertical-align: middle;
 
    .columns {
-      padding-bottom: 35px;
-      padding-right: 35px !important;
-      padding-left: 35px !important;
-      padding-top: 35px;
+      padding-bottom: 25px;
+      padding-right: 25px !important;
+      padding-left: 25px !important;
+      padding-top: 25px;
 
       @media only screen and (max-width: 500px) {
          vertical-align: middle;
-         padding-top: 20px;
-         padding-bottom: 20px;
+         padding-top: 10px;
+         padding-bottom: 10px;
       }
 
       .coupons-logo {
@@ -118,12 +123,16 @@ html, body, .body {
       }
 
       .item-image {
+         padding-top: 20px;
+
          img {
             width: 76px;
          }
       }
 
       .link-icon {
+         padding-bottom: 20px;
+
          img {
             width: 36px;
          }
@@ -190,12 +199,14 @@ table.footer {
       }
    }
    p {
-      font-size: 10px;
+      font-size: 10.5px;
+      color: #666666;
    }
    .unsub {
       padding-right: 35px;
       padding-left: 35px;
       margin-bottom: 25px;
+
    }
    .coupons-img {
       margin-top: 30px;
