@@ -98,7 +98,17 @@ html, body, .body {
    padding-right: 10px !important;
    padding-left: 10px !important;
 
+   th.columns {
+      // padding-left: 8px !important;
+      // padding-right: 8px !important;
+      @media only screen and (max-width: $global-breakpoint) {
+         padding-left: 8px !important;
+         padding-right: 8px !important;
+      }
+   }
    .columns {
+      padding-bottom: 0;
+      display: table;
 
       .callout-inner {
          background: #fff;
@@ -107,6 +117,7 @@ html, body, .body {
          border-radius: 4px;
          padding: 20px;
          box-shadow: 0 2px 4px 0 #dddddd;
+         display: table-cell;
       }
 
       .item-image {
